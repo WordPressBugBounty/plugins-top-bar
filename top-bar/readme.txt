@@ -1,8 +1,8 @@
 === Top Bar ===
 Contributors: spwebguy
-Tags: notification, bar, notification bar, top, topbar, Top Bar, notice, responsive, custom, info bar, message, promotion, promo, special, extra, button, call to action, link
+Tags: top bar, notification, banner, notification bar, info bar
 Requires at least: 3.6
-Tested up to: 6.5
+Tested up to: 6.9
 Stable tag: 3.0.6
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl.html
